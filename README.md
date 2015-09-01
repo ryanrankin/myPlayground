@@ -1,4 +1,4 @@
 myPlayground
 ============
 
-recess. go.
+This simple program demonstrates programming concepts using Javasript.
